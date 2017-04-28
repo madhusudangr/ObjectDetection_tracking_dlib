@@ -39,6 +39,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/detect_faces.py" />
+        <option value="$PROJECT_DIR$/Readme.txt" />
       </list>
     </option>
   </component>
@@ -331,6 +332,14 @@
     <entry file="file://$PROJECT_DIR$/images/IMG_1745.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/detect_faces.py">
